@@ -1,2 +1,2 @@
 ### Hi there 👋
-github java program source code
+코딩 연습
